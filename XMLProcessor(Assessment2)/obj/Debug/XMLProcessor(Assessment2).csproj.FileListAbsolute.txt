@@ -1,0 +1,9 @@
+E:\Thiyanithi\Console Application\XMLProcessor(Assessment2)\XMLProcessor(Assessment2)\bin\Debug\XMLProcessor(Assessment2).exe.config
+E:\Thiyanithi\Console Application\XMLProcessor(Assessment2)\XMLProcessor(Assessment2)\bin\Debug\XMLProcessor(Assessment2).exe
+E:\Thiyanithi\Console Application\XMLProcessor(Assessment2)\XMLProcessor(Assessment2)\bin\Debug\XMLProcessor(Assessment2).pdb
+E:\Thiyanithi\Console Application\XMLProcessor(Assessment2)\XMLProcessor(Assessment2)\obj\Debug\XMLProcessor_Assessment2_.Properties.Resources.resources
+E:\Thiyanithi\Console Application\XMLProcessor(Assessment2)\XMLProcessor(Assessment2)\obj\Debug\XMLProcessor(Assessment2).csproj.GenerateResource.Cache
+E:\Thiyanithi\Console Application\XMLProcessor(Assessment2)\XMLProcessor(Assessment2)\obj\Debug\XMLProcessor(Assessment2).exe
+E:\Thiyanithi\Console Application\XMLProcessor(Assessment2)\XMLProcessor(Assessment2)\obj\Debug\XMLProcessor(Assessment2).pdb
+E:\Thiyanithi\Console Application\XMLProcessor(Assessment2)\XMLProcessor(Assessment2)\obj\Debug\XMLProcessor_Assessment2_.XMLProcessorform.resources
+E:\Thiyanithi\Console Application\XMLProcessor(Assessment2)\XMLProcessor(Assessment2)\obj\Debug\XMLProcessor(Assessment2).csprojResolveAssemblyReference.cache
